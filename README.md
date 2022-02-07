@@ -5,10 +5,10 @@
 A Basic HTML, CSS, Bootstrap and Javascript Template for learning. 
 This is a technical language website with a large number of courses for studying web languages. 
 This is a simple website template that has a home page, a about us page, a courses page, and a contact us page.
-> Home page have a basic slider and some button descriptions of some tech languages 
-> About us page have descriptions of the tech languages templete.
-> Courses page have some web development courses were we can choose any course.
-> Contact us page have a simple form for contact details and also social links for reach us.
+* Home page have a basic slider and some button descriptions of some tech languages 
+* About us page have descriptions of the tech languages templete.
+* Courses page have some web development courses were we can choose any course.
+* Contact us page have a simple form for contact details and also social links for reach us.
 
 ## Installation
 ***
